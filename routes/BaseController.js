@@ -1,9 +1,3 @@
-//-----------------------------------------------------------------------
-// <copyright file="BaseController.js" company="Cohaesus Projects Ltd">
-//     Copyright (c) Cohaesus Projects Ltd. All rights reserved.
-// </copyright>
-//-----------------------------------------------------------------------
-
 // <summary>
 //     Initialise a new instance of BaseController.
 // </summary>
